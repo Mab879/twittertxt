@@ -1,2 +1,2 @@
 # twittertxt
-Don't read me
+Broken due to Twitter API changes
